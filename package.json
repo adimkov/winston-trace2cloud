@@ -9,10 +9,15 @@
   "keywords": [
     "log",
     "trace2clud",
+    "winston",
     "transport"
   ],
   "author": "Anton Dimkov",
-  "license": "ISC",
+  "license": "MIT",
+  "repository":  {
+    "type" : "git",
+    "url" : "https://github.com/adimkov/winston-trace2cloud.git"
+  },
   "devDependencies": {
     "winston": "0.9.x"
   }
