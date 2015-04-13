@@ -1,0 +1,19 @@
+{
+  "name": "winston-trace2cloud",
+  "version": "1.0.0",
+  "description": "trace2cloud transport for winston log framework",
+  "main": "./lib/winston-trace2cloud.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "log",
+    "trace2clud",
+    "transport"
+  ],
+  "author": "Anton Dimkov",
+  "license": "ISC",
+  "devDependencies": {
+    "winston": "0.9.x"
+  }
+}
